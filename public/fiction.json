@@ -1,0 +1,191 @@
+[
+    {
+      "key": "ahsan01",
+      "author": "William Shakespeare",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/375px-Shakespeare.jpg",
+      "minSales": "2 billion",
+      "maxSales": "4 billion",
+      "numberOfBooks": 40,
+      "allBooksPrice": 10000
+    },
+    {
+      "key": "ahsan02",
+      "author": "Agatha Christie",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Agatha_Christie.png",
+      "minSales": "2 billion",
+      "maxSales": "4 billion",
+      "numberOfBooks": 85,
+      "allBooksPrice": 25000
+    },
+    {
+      "key": "ahsan03",
+      "author": "Barbara Cartland",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dame_Barbara_Cartland_Allan_Warren.jpg/406px-Dame_Barbara_Cartland_Allan_Warren.jpg",
+      "minSales": "500 million",
+      "maxSales": "1 billion",
+      "numberOfBooks": 723,
+      "allBooksPrice": 100000
+    },
+    {
+      "key": "ahsan04",
+      "author": "Danielle Steel",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Danielle_steel_signature.svg/480px-Danielle_steel_signature.svg.png",
+      "minSales": "500 million",
+      "maxSales": "800 million",
+      "numberOfBooks": 189,
+      "allBooksPrice": 35000
+    },
+    {
+      "key": "ahsan05",
+      "author": "Harold Robbins",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Harold_Robbins_%281979%29.jpg/360px-Harold_Robbins_%281979%29.jpg",
+      "minSales": "750 million",
+      "maxSales": "750 million",
+      "numberOfBooks": 23,
+      "allBooksPrice": 2950
+    },
+    {
+      "key": "ahsan06",
+      "author": "Georges Simenon",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Georges_Simenon_%281963%29_without_hat_by_Erling_Mandelmann.jpg",
+      "minSales": "500 million",
+      "maxSales": "700 million",
+      "numberOfBooks": 570,
+      "allBooksPrice": 103000
+    },
+    {
+      "key": "ahsan07",
+      "author": "Enid Blyton",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Enid_Blyton_2.jpg",
+      "minSales": "350 million",
+      "maxSales": "600 million",
+      "numberOfBooks": 800,
+      "allBooksPrice": 160000
+    },
+    {
+      "key": "ahsan08",
+      "author": "Sidney Sheldon",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sidney_Sheldon.jpg",
+      "minSales": "370 million",
+      "maxSales": "600 million",
+      "numberOfBooks": 21,
+      "allBooksPrice": 4450
+    },
+    {
+      "key": "ahsan09",
+      "author": "J. K. Rowling",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/388px-J._K._Rowling_2010.jpg",
+      "minSales": "500 million",
+      "maxSales": "500 million",
+      "numberOfBooks": 15,
+      "allBooksPrice": 3300
+    },
+    {
+      "key": "ahsan10",
+      "author": "Dr. Seuss",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Theodor_Seuss_Geisel_%2801037v%29.jpg/384px-Theodor_Seuss_Geisel_%2801037v%29.jpg",
+      "minSales": "100 million",
+      "maxSales": "500 million",
+      "numberOfBooks": 44,
+      "allBooksPrice": 11500
+    },
+    {
+      "key": "ahsan11",
+      "author": "Akira Toriyama",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Akira_Toriyama.jpg",
+      "minSales": "298 million",
+      "maxSales": "438 million",
+      "numberOfBooks": 66,
+      "allBooksPrice": 13999
+    },
+    {
+      "key": "ahsan12",
+      "author": "Leo Tolstoy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg/346px-L.N.Tolstoy_Prokudin-Gorsky.jpg",
+      "minSales": "265 million",
+      "maxSales": "413 million",
+      "numberOfBooks": 48,
+      "allBooksPrice": 8500
+    },
+    {
+      "key": "ahsan13",
+      "author": "Jackie Collins",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Jackie_Collins_-_The_Power_Trip_cropped.jpg",
+      "minSales": "250 million",
+      "maxSales": "400 million",
+      "numberOfBooks": 25,
+      "allBooksPrice": 5430
+    },
+    {
+      "key": "ahsan14",
+      "author": "Horatio Alger",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Horatio_Alger_Jr.jpg",
+      "minSales": "200 million",
+      "maxSales": "400 million",
+      "numberOfBooks": 135,
+      "allBooksPrice": 24500
+    },
+    {
+      "key": "ahsan15",
+      "author": "Nora Roberts",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NoraRoberts.jpg/336px-NoraRoberts.jpg",
+      "minSales": "145 million",
+      "maxSales": "400 million",
+      "numberOfBooks": "200+",
+      "allBooksPrice": 41000
+    },
+    {
+      "key": "ahsan16",
+      "author": "R. L. Stine",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/R._L._Stine_by_Gage_Skidmore.jpg/369px-R._L._Stine_by_Gage_Skidmore.jpg",
+      "minSales": "100 million",
+      "maxSales": "400 million",
+      "numberOfBooks": "430+",
+      "allBooksPrice": 86000
+    },
+    {
+      "key": "ahsan17",
+      "author": "Alexander Pushkin",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/412px-Kiprensky_Pushkin.jpg",
+      "minSales": "100 million",
+      "maxSales": "357 million",
+      "numberOfBooks": 17,
+      "allBooksPrice": 3500
+    },
+    {
+      "key": "ahsan18",
+      "author": "Stephen King",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Stephen_King%2C_Comicon.jpg/378px-Stephen_King%2C_Comicon.jpg",
+      "minSales": "300 million",
+      "maxSales": "350 million",
+      "numberOfBooks": 77,
+      "allBooksPrice": 15000
+    },
+    {
+      "key": "ahsan19",
+      "author": "Paulo Coelho",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coelhopaulo26012007-1.jpg/351px-Coelhopaulo26012007-1.jpg",
+      "minSales": "225 million",
+      "maxSales": "350 million",
+      "numberOfBooks": 28,
+      "allBooksPrice": 6800
+    },
+    {
+      "key": "ahsan20",
+      "author": "Jeffrey Archer",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Jeffrey_Archer_%40_Oslo_bokfestival_2012_4.jpg/463px-Jeffrey_Archer_%40_Oslo_bokfestival_2012_4.jpg",
+      "minSales": "250 million",
+      "maxSales": "330 million",
+      "numberOfBooks": 33,
+      "allBooksPrice": 7100
+    },
+    {
+      "key": "ahsan21",
+      "author": "Louis LAmour",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Ronald_Reagan_presenting_Congressional_Gold_medal_to_Louis_L%27Amour_C17215-24.jpg/480px-Ronald_Reagan_presenting_Congressional_Gold_medal_to_Louis_L%27Amour_C17215-24.jpg",
+      "minSales": "230 million",
+      "maxSales": "330 million",
+      "numberOfBooks": 101,
+      "allBooksPrice": 19800
+    }
+  ]
