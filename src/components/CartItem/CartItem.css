@@ -1,0 +1,17 @@
+.cart-item-list{
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 157, 124);
+    border-radius: 10px;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.cart-item-img{
+    width: 21px;
+    height: 21px;
+    border-radius: 50%;
+}
+.close-btn{
+    font-weight: bold;
+    color: white;
+}

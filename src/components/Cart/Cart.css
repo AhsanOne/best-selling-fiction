@@ -1,0 +1,14 @@
+.cart{
+    text-align: center;
+}
+.process-order-btn{
+    padding: 15px 25px;
+    background-color: #f16232;
+    border: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
